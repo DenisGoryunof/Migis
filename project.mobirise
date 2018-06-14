@@ -1,0 +1,1293 @@
+{
+  "settings": {
+    "name": "MIGIS-irk.ru",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#2c2c2c",
+        "#ff4e00",
+        "#fdabfd"
+      ]
+    },
+    "versionFirst": "4.4.0",
+    "uniqCompNum": 52,
+    "versionPublish": "4.7.6",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://migis-irk.ru/",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-109089021-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-109089021-3');\r\n</script>\r\n\r\n<!-- Yandex.Metrika counter -->\r\n<script type=\"text/javascript\" >\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter46689186 = new Ya.Metrika({\r\n                    id:46689186,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text/javascript\";\r\n        s.async = true;\r\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks\");\r\n</script>\r\n<noscript><div><img src=\"https://mc.yandex.ru/watch/46689186\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\r\n<!-- /Yandex.Metrika counter -->\r\n\r\n<meta name=\"yandex-verification\" content=\"72a9d568937f4bed\" />",
+    "sitemapSwitcher": "on",
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "gdpr": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Межрегиональный Институт Гештальт-терапии и Искусства Филиал Иркутск",
+        "meta_descr": "профессиональная переподготовка гештальт-терапевтов обучение психотерапевтов, психологов",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Скачать документы для поступления</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-2\">Главная</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-j\">Контакты</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"program.html#header3-19\">Программа обучения</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nabor.html#content1-1e\">Набор в группу</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html#testimonials1-q\">О нас</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-g\">Записаться</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "migis",
+              "link": "https://migis-irk.ru",
+              "title": "МИГИС",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://migis-irk.ru\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">МИГИС в Иркутске</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/dmOjnR_2qBA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=dmOjnR_2qBA",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Филиал МИГИС в Иркутске",
+          "text": "Межрегиональный Институт Гештальт Терапии. Изучение гештальт терапии под руководством Сергея Мищука",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"http://www.migis.org/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Сайт головного офиса</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"index.html#form1-g\" data-toolbar=\"-mbrBtnMove\">Записаться</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2",
+          "_styles": {
+            "H1": {
+              "color": "#27aae0"
+            },
+            "P": {
+              "color": "#2c82c9"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=hk4iyTEn88U",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "УЗНАЙТЕ О НАС \n<div>ЗА ПАРУ МИНУТ</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Гештальт-терапия - это небо, где есть полет, вдохновение и воздух. \n</p><p>Гештальт-терапия - это бурная река с порогами, препятствиями и постоянной игрой в новой ситуации с новыми возможностями. \n</p><p>Гештальт терапия - это земля с опорой, фундаментом и надеждой. \n</p><p>Гештальт-терапия - это встреча с другими на небе, на реке и на земле!\n</p><p>С уважением, Гречка Вадим</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#form1-g\" data-toolbar=\"-mbrBtnMove\">Присоединяйтесь</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1248-332x221.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1248-332x221-332x221.jpg",
+                "alt": "",
+                "caption": "Директор МИГИС Днепропетровск",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13938521-1115842041816968-4390459360099223775-n-328x219.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13938521-1115842041816968-4390459360099223775-n-328x219-328x219.jpg",
+                "alt": "",
+                "caption": "Групповые занятия",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20728177-1918739948451827-5572638737209406006-n-325x210.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20728177-1918739948451827-5572638737209406006-n-325x210-325x210.jpg",
+                "alt": "",
+                "caption": "Встречи на природе",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-6809-331x209.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6809-331x209-331x209.jpg",
+                "alt": "",
+                "caption": "Занимательные мероприятия",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-6913-332x221.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6913-332x221-332x221.jpg",
+                "alt": "",
+                "caption": "Тематические втречи\n<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/331x211.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/331x211-331x211.jpg",
+                "alt": "",
+                "caption": "Работа в команде&nbsp;<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/332x186.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/332x186-332x186.jpg",
+                "alt": "",
+                "caption": "Природа и компания единомышленников&nbsp;<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/330x209.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/330x209-330x209.jpg",
+                "alt": "",
+                "caption": "Интенсивы",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/pcwbbahsuco-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pcwbbahsuco-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Лучшие тренера&nbsp;<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/yexrllfzotc-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yexrllfzotc-1280x960-800x600.jpg",
+                "alt": "",
+                "caption": "Занятия уже идут в Иркутске&nbsp;<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ktaa6kmue-w-1136x852.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ktaa6kmue-w-1136x852-800x600.jpg",
+                "alt": "",
+                "caption": "Присоединяйтесь к лучшим&nbsp;<br>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/sscxd3xy1ao-1136x852.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sscxd3xy1ao-1136x852-800x600.jpg",
+                "alt": "",
+                "caption": "Будущие гештальт терапевты&nbsp;<br>",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-4"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Свяжитесь с нами, будем рады",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "form": {
+            "action": "sawerD@mail.ru",
+            "alerts": {
+              "success": "Сообщение отправлено"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Оставьте номер и мы вам перезвоним"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-g"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Иркутск красного восстания 20",
+              "placeId": "ChIJGzgs71E7qF0R8cayNJamnmw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>Иркутск, ул. Крассного восстания, 20, оф.&nbsp;206<br><br>\n<strong>Контакты</strong><br>\nEmail: zimnik.maria@list.ru<br>\nтел. +79025162099<br>тел. +79041328111",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Ссылки</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.migis.org/\" target=\"_blank\">www.migis.org</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.facebook.com/migis.org\" target=\"_blank\">Facebook</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.youtube.com/channel/UC8jL_knPKFXtK9Z2nILMKZg\" target=\"_blank\">YouTube</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-j"
+        }
+      ]
+    },
+    "program.html": {
+      "settings": {
+        "meta_descr": "программа обучения гештальт психотерапевтов МИГИС в филиале в Иркутске",
+        "title": "Программа обучения гештальт",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Скачать документы для поступления</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-2\">Главная</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-j\">Контакты</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"program.html#header3-19\">Программа обучения</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nabor.html#content1-1e\">Набор в группу</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html#testimonials1-q\">О нас</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-g\">Записаться</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "migis",
+              "link": "https://migis-irk.ru",
+              "title": "МИГИС",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://migis-irk.ru\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">МИГИС в Иркутске</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-w"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "ПРОГРАММА ПРОФЕССИОНАЛЬНОЙ ПОДГОТОВКИ ГЕШТАЛЬТ-ТЕРАПЕВТОВ",
+          "meta": "Это участие в долговременной программе Межрегионального Института Гештальт-терапии и Искусства (МИГИС) и одновременно глубокое исследование человеческой природы и судьбы в народной традиции..",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19"
+        },
+        {
+          "text": "<p>!! ВНИМАНИЕ!!! ОТКРЫТ НАБОР ВО ВТОРУЮ ГРУППУ!!!\n</p><p>\n</p><p>Если вы современный, активный, динамично-развивающийся человек, интересующийся собой и своими близкими, самореализацией и успехом (в семье, в карьере, в творчестве)…\n</p><p>Или если Вы хотите стать таким, найти свои интересы, повысить свою самооценку, наладить отношения в семье, с окружающими, получать удовольствие от жизни, научиться строить тёплые и искренние отношения, найти друзей…\n</p><p>Тогда эта информация для Вас:</p><p><b>занятия второго потока обучения гештальт-терапевтов МИГИС 18-21 апреля 2018 года.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1a",
+          "_styles": {
+            "P": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "text": "<p><b>Гештальт-терапия</b> — одно из самых модных и эффективных направлений психотерапии, покорившее полмира, которое направлено на развитие целостной и гармоничной личности, раскрытие её творческого потенциала. Открывает глубинные проблемы, мешающие достижению целей, гармонизирует внутренний мир, способствует реализации желаний и творческим прорывам.\n</p><p>\n</p><p>Во всём мире психологические группы гештальт-терапии прочно вошли в жизнь бизнесменов и домохозяек, спортсменов и инвалидов, трудных подростков и студентов, семейных пар и закоренелых холостяков. В них люди учатся слушать и понимать друг друга, проявлять и принимать сочувствие. Здесь они узнают самих себя с другой стороны, переживают необычный опыт, испытывают захватывающие чувства. Одним словом, они возвращают себе изначальную целостность, собирают себя из разрозненных кусочков, на которые была раздроблена их личность.</p><p><br></p><p><b>Что даёт участие в программе:</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1b",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 5,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "1. Обучение.&nbsp;",
+          "caption1": "На группе передаётся видение природы и механики работы сознания, а также инструменты для работы с ним, в первую очередь через работу с самим собой — а впоследствии с другими людьми. <br>На группе мы будем познавать в себе:<br>-незаметные, но важные особенности своей личности;\n<br>-непонятные и неадекватные способы реагирования;\n<br>-тонкости переживаемых состояний и их переключение;\n<br>-забытые, но работающие решения, мысли, отношения;\n<br>-привычные тупики и механизмы выхода из них.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "2. Очищение.",
+          "caption2": "Открытие сердца, чувств, мыслей и освобождение от тех состояний, которые забирают время и возможности нашей жизни. Во время работы на группе участники осознают и убирают помехи на пути обретения счастья и благополучия, и избавляются от привычных стереотипов, которые превращают людей в обезжизненных функционеров, а жизнь в серые будни.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "3. Окружение.",
+          "caption3": "В первую очередь, группа — это особым образом организованное место и время, которое посвящено созданию такого пространства, где происходит многое из того, что порой напоминает настоящие чудеса. Но, кроме того, группа — это знакомство и общение с людьми, которые будут соратниками и опорой для дальнейшего пути к себе.\n<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "4. Реализация.\n",
+          "caption4": "Долговременная программа профессиональной подготовки представляет собой отдельное высшее образование и даёт возможность получить международный диплом психотерапевта. Работа интересная, статусная, важная, востребованная и хорошо оплачиваемая.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Дополнительная польза:\n<div>\n</div><div><br></div>",
+          "caption5": "Отдельно хотим отметить, что на группах Сергей передаёт намного больше, чем заявлено в программе, щедро пересыпая народной мудростью и открывая видение. Именно эти, отработанные тысячелетиями техники и видение дают многократное преимущество в работе с людьми. <br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-y"
+        },
+        {
+          "text": "<p>Ученики и коллеги Сергея всегда стараются использовать любую возможность для соприкосновения с миром народной культуры, получить более точное видение и силы, до которых пока не дошла современная психотерапия.Обучение проводится в группе до 30 человек, где передаётся видение природы и механики работы сознания, а также инструменты для работы с ним, в первую очередь через работу с самим собой — а впоследствии с другими людьми.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1c",
+          "_styles": {
+            "P": {
+              "color": "#2969b0"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-author-385x385.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Мищук Сергей Сергеевич",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-13"
+        },
+        {
+          "text": "<p>Большую часть своей жизни я работаю с людьми в разных сферах.\n</p><p>\n</p><p>Начинал с поисков себя, погружался в разные традиции и течения, потом начал искать мастеров, наставников и учителей. Первый опыт психологической работы с людьми получал через практику нетрадиционной медицины, йоги, ци-гун, гун-фу и эзотерической психологии, многое узнал о человеке, его способностях и скрытых возможностях.\n</p><p>\n</p><p>Изучал психофизиологию, работал доктором в реанимации больницы скорой помощи, инфекционистом, мануальным терапевтом.\n</p><p>\n</p><p>С увеличением практики ко мне стали обращаться люди с большим спектром запросов и заболеваний. В какой-то момент я понял, что знаний академической и народной медицины мне недостаточно. Я занялся психологией и закончил второе высшее по практической психологии, защитил дипломную работу по психологии развития. Однако в глубокой и серьёзной работе с людьми знаний и навыков не хватало. Именно с этого началась моя практика в психотерапии под руководством Гречки Вадима. Постепенно из терапевта я стал тренером и супервизором, начал вести обучающие программы. Надеюсь, что приобретенный опыт, искреннее желание и практические результаты это достаточный фон, для того, чтобы обучать других.\n</p><p>\n</p><p>В результате многолетней работы с людьми научился ценить простые эффективные методики, а также пришел к пониманию того, как важно постоянно продолжать работать над собой.\n</p><p>\n</p><p>Являюсь основателем системы целостного психического и телесного развития СолнычКо, школы славянских традиций, школы массажа. Создал цикл собственных авторских программ, курсов и тренингов, выступил соавтором Школы Эйдотехники и Исцеляющего Импульса.\n</p><p>\n</p><p>На данный момент являюсь директором представительства МИГИС в Виннице, веду различные программы и специализации по всему миру, чаще всего в Москве, Минске, Киеве, Иркутске и, конечно же, в Виннице.\n</p><p>\n</p><p>Исследую возможности человека и способы их раскрытия. Ищу возможности интеграции психотерапевтических методик из различных культур и традиций с гештальт-терапией и привнесению их в современное общество»</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15",
+          "_styles": {
+            "P": {
+              "color": "#28324e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Иркутск красного восстания 20",
+              "placeId": "ChIJGzgs71E7qF0R8cayNJamnmw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>Иркутск, ул. Крассного восстания, 20, оф.&nbsp;206<br><br>\n<strong>Контакты</strong><br>\nEmail: zimnik.maria@list.ru<br>\nтел. +79025162099<br>тел. +79041328111",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Ссылки</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.migis.org/\" target=\"_blank\">www.migis.org</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.facebook.com/migis.org\" target=\"_blank\">Facebook</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.youtube.com/channel/UC8jL_knPKFXtK9Z2nILMKZg\" target=\"_blank\">YouTube</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-x"
+        }
+      ]
+    },
+    "about.html": {
+      "settings": {
+        "title": "Что такое гештальт",
+        "meta_descr": "что такое гештальт психотерапия и наши тренеры",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Скачать документы для поступления</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-2\">Главная</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-j\">Контакты</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"program.html#header3-19\">Программа обучения</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nabor.html#content1-1e\">Набор в группу</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html#testimonials1-q\">О нас</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-g\">Записаться</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "migis",
+              "link": "https://migis-irk.ru",
+              "title": "МИГИС",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://migis-irk.ru\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">МИГИС в Иркутске</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-m"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "WHAT OUR FANTASTIC USERS SAY",
+          "items": [
+            {
+              "authorName": "Майкл Миллер",
+              "authorBio": "Автор",
+              "text": "<p class=\"mbr-reviews__p\">«Чтобы ощущать себя свободным, нужно отказаться от соблазнов детерминизма. Иллюзию определённости могут создавать: зависимость от авторитетных фигур (родителей, супругов, политиков), безусловная вера в научный детерминизм (биологический или психологический), религия, эзотерические учения. Однако эти же иллюзии помогают нам справиться с тревогой. Создают ощущение безопасности, предсказуемости и контролируемости жизни. Так что или свободна, или отсутствие тревоги».\r</p><p class=\"mbr-reviews__p\">\r</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "Kateryna Sabanska Melillo",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">Прекрасный профессиональный институт - это место, где вы найдете качественную психологическую, психотерапевтическую помощь, кроме этого возможность последипмлоного образования, переквалификации и получения образования гештальт-терапевта, суперизора. Живя уже несколько лет в штатах, посещая семинары, мастер-классы, проводимые другими мировыми интситутами, я искренне скажу, что уровень подготовки МИГИСа стоит на одной ступени с известными гештальт терапевтическими школами, а специфика института в использовании различных видов искусств в обучении и понятия терапевтических отношений в целом выделяет МИГИС из всех психотерапевтических направлений.</p>"
+            },
+            {
+              "authorName": "Сергей Мищук",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">Всем, идущим по пути развития, всем желающим освободиться и исцелиться от тяжелого и давящего, гнетущего и мешающего, рано или поздно приводящего к болезням и стрессам приглашаем в учёбу.\n</p><p class=\"mbr-reviews__p\">Это возможность утвердиться в своём пути, это возможность достигнуть своих целей, осуществить желаемое!</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "authorName": "Майкл Миллер",
+              "authorBio": "Автор",
+              "text": "<p class=\"mbr-reviews__p\">«Чтобы ощущать себя свободным, нужно отказаться от соблазнов детерминизма. Иллюзию определённости могут создавать: зависимость от авторитетных фигур (родителей, супругов, политиков), безусловная вера в научный детерминизм (биологический или психологический), религия, эзотерические учения. Однако эти же иллюзии помогают нам справиться с тревогой. Создают ощущение безопасности, предсказуемости и контролируемости жизни. Так что или свободна, или отсутствие тревоги».\r</p><p class=\"mbr-reviews__p\">\r</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "Kateryna Sabanska Melillo",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">Прекрасный профессиональный институт - это место, где вы найдете качественную психологическую, психотерапевтическую помощь, кроме этого возможность последипмлоного образования, переквалификации и получения образования гештальт-терапевта, суперизора. Живя уже несколько лет в штатах, посещая семинары, мастер-классы, проводимые другими мировыми интситутами, я искренне скажу, что уровень подготовки МИГИСа стоит на одной ступени с известными гештальт терапевтическими школами, а специфика института в использовании различных видов искусств в обучении и понятия терапевтических отношений в целом выделяет МИГИС из всех психотерапевтических направлений.</p>"
+            },
+            {
+              "authorName": "Сергей Мищук",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">Всем, идущим по пути развития, всем желающим освободиться и исцелиться от тяжелого и давящего, гнетущего и мешающего, рано или поздно приводящего к болезням и стрессам приглашаем в учёбу.\n</p><p class=\"mbr-reviews__p\">Это возможность утвердиться в своём пути, это возможность достигнуть своих целей, осуществить желаемое!</p>"
+            }
+          ],
+          "_anchor": "testimonials1-q"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#2c2c2c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "ЗАЧЕМ ГЕШТАЛЬТ-ТЕРАПИЯ СОВРЕМЕННОМУ ЧЕЛОВЕКУ, НЕ ПСИХОЛОГУ?\n<div>\n</div><div><br></div>",
+          "text": "<p>Мир трансформируется, экономика становится креативной и для того чтобы успешно двигаться вперед теперь мало иметь знания только в свой области. Психологическая грамотность и эмоциональный интеллект становятся неотъемлемой частью любой профессиональной деятельности и личной жизни человека.\n</p><p>\n</p><p>Основная проблема современных людей в том, что из-за изменения скорости жизни, правил и требований, они недостаточно хорошо знают себя, свои чувства, желания, возможности и способы построения качественных и эффективных отношений в коллективе, с партнерами, с клиентами и в семье.\n</p><p>\n</p><p>Лучший выход - получить уникальные знания и научиться их применять во всех сферах своей жизни.\n</p><p>\n</p><p>Это сэкономит Ваше время и жизненные силы.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-r"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "КТО ТАКОЙ ГЕШТАЛЬТ-ТЕРАПЕВТ? ЧТО ОН ДЕЛАЕТ? В ЧЕМ ОН ПОЛЕЗЕН?",
+          "text": "<p>Гештальт-терапевт, психолог, психотерапевт – это профессии, популярность и необходимость которых только начинают набирать обороты в нашей стране.\n</p><p>ГЕШТАЛЬТ-ТЕРАПЕВТЫ проходят специальную практическую программу обучения либо на базе первого психологического образования, либо получая его в процессе прохождения программы (в государственных ВУЗах).\n</p><p>Гештальт-терапию можно назвать феноменологически-экспериментальным направлением. Поэтому гештальт-терапевт не является экспертом в жизни клиента, выдавая ему интерпретации на его поведение, - он скорее экспериментатор, который предлагает клиенту эксперимент, для расширения осознавания подавленных переживаний, неосознанных паттернов поведения, скрытых манипуляций и т.д.\n</p><p>Для гештальт-терапевта не так важен вопрос “Почему?”, “Что было причиной настоящего состояния?”, а более важным вопросом будет “Что есть сейчас?”, “Как человек в настоящий момент организовывает свою жизнь благодаря опыту прошлого?” С этой точки зрения, прошлое и будущее находятся в настоящем: все мечты и воспоминания, фантазии и мысли - это действия, происходящие в настоящем. Жизнь проистекает в ЭТОТ момент и изменить ее можно только в настоящем.\n</p><p>Гештальт-терапевт внимателен к тому, как человек формирует отношения, что происходит в этих отношениях и как это взаимодействие помогает исцелению и росту или создает проблемы для человека.\n</p><p>Он изучает процесс организации клиентом контакта. Ему интересно то, как именно клиент себя ведет в настоящий момент и достаточно ли у него ресурсов для создания нового способа жизни.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-s"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Зачем нужна психотерапия?",
+          "text": "<p>ГЕШТАЛЬТ-ТЕРАПЕВТЫ проходят специальную практическую программу обучения либо на базе первого психологического образования, либо получая его в процессе прохождения программы (в государственных ВУЗах)\r</p><p>Один из мифов о гештальт-терапии, психологии и психотерапии это утверждение, что \"Психотерапевты нужны только больным, а я здоров!\"\r</p><p><b>Хотим Вас обрадовать, это не так!\r</b></p><p>ГЕШТАЛЬТ-терапия – гуманистическое направление психотерапии, которое направлено на работу с психически здоровыми людьми, которые столкнулись с затруднениями в своей жизни\r</p><p>Jampman\r</p><p>С людьми, у которых есть нарушения в психики, работают психиатры в специальных медицинских учреждениях.\r</p><p>Основная проблема современных людей в том, что они недостаточно хорошо знают себя и свои возможности из-за изменения скорости жизни и правил современного мира\r</p><p>Порой сложно самостоятельно: разобраться в перипетиях жизни, найти выход из болезненных и непреодолимых обстоятельств, понять, что делать и как поступить. Тогда необходим тот, кто поможет в этих ситуациях. Лучший выход - получить помощь и поддержку у специалиста. Это сэкономит время, деньги и жизненные силы.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-t"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Свяжитесь с нами, будем рады",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "form": {
+            "action": "sawerDen@rambler.ru",
+            "alerts": {
+              "success": "Сообщение отправлено"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Оставьте номер и мы вам перезвоним"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-u"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Иркутск, ул. Крассного восстания, 20",
+              "placeId": "ChIJGzgs71E7qF0R8cayNJamnmw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-12"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Иркутск красного восстания 20",
+              "placeId": "ChIJGzgs71E7qF0R8cayNJamnmw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>Иркутск, ул. Крассного восстания, 20, оф.&nbsp;206<br><br>\n<strong>Контакты</strong><br>\nEmail: zimnik.maria@list.ru<br>\nтел. +79025162099<br>тел. +79041328111",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Ссылки</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.migis.org/\" target=\"_blank\">www.migis.org</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.facebook.com/migis.org\" target=\"_blank\">Facebook</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.youtube.com/channel/UC8jL_knPKFXtK9Z2nILMKZg\" target=\"_blank\">YouTube</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-v"
+        }
+      ]
+    },
+    "nabor.html": {
+      "settings": {
+        "meta_descr": "Набор в группу обучения МИГИС по направлению гештальт-психотерапевт",
+        "title": "Набор в группу гештальт",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#9365b8",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Скачать документы для поступления</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__section": {
+              "background": "#9365b8"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header4-2\">Главная</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-j\">Контакты</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"program.html#header3-19\">Программа обучения</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"nabor.html#content1-1e\">Набор в группу</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html#testimonials1-q\">О нас</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-g\">Записаться</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "migis",
+              "link": "https://migis-irk.ru",
+              "title": "МИГИС",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://migis-irk.ru\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">МИГИС в Иркутске</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-z"
+        },
+        {
+          "text": "<p><b>!! ВНИМАНИЕ!!! ОТКРЫТ НАБОР ВО ВТОРУЮ ГРУППУ!!!\n</b></p><p>\n</p><p>Если вы современный, активный, динамично-развивающийся человек, интересующийся собой и своими близкими, самореализацией и успехом (в семье, в карьере, в творчестве)…\n</p><p>\n</p><p>Или если Вы хотите стать таким, найти свои интересы, повысить свою самооценку, наладить отношения в семье, с окружающими, получать удовольствие от жизни, научиться строить тёплые и искренние отношения, найти друзей…\n</p><p>\n</p><p>Тогда эта информация для Вас:\n</p><p>\n</p><p><b>занятия второго потока обучения гештальт-терапевтов МИГИС 18-21 апреля 2018 года.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1e",
+          "_styles": {
+            "P": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "firstType": "favorite",
+            "secondType": "green",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "При оплате за год",
+          "currency1": "т.р.",
+          "price1": "45",
+          "period1": "за год",
+          "list1": "<ul><li><b>5 сессий</b></li><li><b>работа в группе</b></li><li><b>с лучшими тренерами МИГИС</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "При оплате за сессию",
+          "currency2": "т.р.",
+          "price2": "12,5",
+          "period2": "за сессию",
+          "list2": "<ul><li><b>50% предоплата</b></li><li><b>обязательна</b></li><li><br></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "PREMIUM",
+          "currency3": "$",
+          "price3": "0",
+          "period3": "per month",
+          "list3": "<ul><li><b>100 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>50 GB</b> Bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "ULTIMATE",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "per month",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-17",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "text": "<p>Программа семинаров \"Теория и практика гештальт-терапии\"\r</p><p>\r</p><p>1-я ступень:\r</p><p>\r</p><p>Семинар 1. Философские, биологические и психологические предпосылки гештальт-терапии.\r</p><p>Семинар 2. Теория контакта в гештальт-терапии.\r</p><p>Семинар 3. Интегративный характер гештальт-терапии.\r</p><p>Семинар 4. Творческие методы в гештальт-терапии.\r</p><p>Семинар 5. Работа с сопротивлением в гештальт-терапии.\r</p><p>\r</p><p>2-я ступень:\r</p><p>\r</p><p>Семинар 6. Стратегия и тактика терапевтической сессии.\r</p><p>Семинар 7. Эксперимент в гештальт-терапии.\r</p><p>Семинар 8. Основные стратегии работы гештальт-терапевтов. Работа с внутренней феноменологией. Работа на границе-контакта.\r</p><p>Семинар 9. Принципы клинического применения гештальт-терапии. Работа с невротическими расстройствами (часть 1).\r</p><p>Семинар 10. Принципы клинического применения гештальт-терапии. Работа с невротическими расстройствами (часть 2).\r</p><p>Семинар11. Гештальт-терапия психосоматических расстройств. Функционирование тела в жизни и психотерапии.\r</p><p>Семинар 12. Психология и психотерапия зависимого поведения.\r</p><p>Семинар 13. Психологическая помощь при аффективных и психотических расстройствах.\r</p><p>Семинар 14. Феномены тела в гештальт-терапии.\r</p><p>Семинар 15. Творческие аспекты в работе терапевт — клиент.\r</p><p>Семинар 16. Терапевтические отношения. Психоанализ и гештальт-терапия.\r</p><p>Семинар 17. Техника терапевтической интервенции. Супервидение в гештальт-терапии.\r</p><p>Семинар 18. Подготовка к экзамену.\r</p><p>Семинар 19 и Семинар 20 — терапевтические семинары, которые проводятся между тематическими семинарами.\r</p><p>На усмотрение тренера возможно увеличение количества семинаров, в зависимости от ситуации в группе.\r</p><p>\r</p><p>По окончанию 1-й ступени выдаётся сертификат об участии Межрегионального института Гештальт-Терапии, который позволяет продолжить обучение на 2-й ступени профессиональной подготовки гештальт-терапевтов.\r</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Напишите нам и мы Вам позвоним",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "form": {
+            "action": "sawerDen@rambler.ru",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-16"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Иркутск красного восстания 20",
+              "placeId": "ChIJGzgs71E7qF0R8cayNJamnmw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>Иркутск, ул. Крассного восстания, 20, оф.&nbsp;206<br><br>\n<strong>Контакты</strong><br>\nEmail: zimnik.maria@list.ru<br>\nтел. +79025162099<br>тел. +79041328111",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Ссылки</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.migis.org/\" target=\"_blank\">www.migis.org</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.facebook.com/migis.org\" target=\"_blank\">Facebook</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.youtube.com/channel/UC8jL_knPKFXtK9Z2nILMKZg\" target=\"_blank\">YouTube</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-10"
+        }
+      ]
+    }
+  }
+}
